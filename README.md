@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubham-2899
+- 👋 Hi, I’m Shubham Latake
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently pursuing MSc Computer Science
 - 💞️ I’m looking to collaborate on any Software Projects
